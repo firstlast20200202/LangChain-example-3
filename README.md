@@ -10,7 +10,6 @@ By completing this project, you will:
 ## 🚀 Quick Start
 
 ### 1. Setup Environment
-
 What gets installed:
 ✅ sentence-transformers - Embedding models from HuggingFace
 ✅ langchain - Abstraction framework
