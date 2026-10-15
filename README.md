@@ -10,13 +10,14 @@ By completing this project, you will:
 ## 🚀 Quick Start
 
 ### 1. Setup Environment
+
 What gets installed:
-✅ sentence-transformers - Embedding models from HuggingFace
-✅ langchain - Abstraction framework
-✅ langchain-community - Vector store integrations
-✅ langchain-huggingface - HuggingFace embeddings integration
-✅ chromadb - Production vector database
-✅ numpy - Vector mathematics
+- ✅ sentence-transformers - Embedding models from HuggingFace
+- ✅ langchain - Abstraction framework
+- ✅ langchain-community - Vector store integrations
+- ✅ langchain-huggingface - HuggingFace embeddings integration
+- ✅ chromadb - Production vector database
+- ✅ numpy - Vector mathematics
 
 ```bash
 # Create and activate virtual environment
